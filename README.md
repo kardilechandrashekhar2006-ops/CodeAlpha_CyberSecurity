@@ -1,16 +1,21 @@
-# CodeAlpha Internship - Task 1: Basic Network Sniffer
+# CodeAlpha CyberSecurity Internship
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project is part of the CodeAlpha Cybersecurity Internship.  
-It demonstrates how to capture and analyze network packets using Python and Scapy.
+This repository contains tasks completed during the CodeAlpha CyberSecurity Internship.  
+Each task demonstrates practical skills in cybersecurity, including network sniffing, phishing awareness, and secure coding review.
 
 ---
 
-## ⚙️ Setup Instructions
+## 📊 Task List
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/CodeAlpha_NetworkSniffer.git
-   cd CodeAlpha_NetworkSniffer
-   ```
+### ✅ Task 1: Basic Network Sniffer
+
+- **Folder:** `Task1_NetworkSniffer/`
+- **Tech:** Python + Scapy
+- **Description:** Captures and analyzes network packets (IP, Protocol, Ports).
+- **Run:**
+  ```bash
+  python Task1_NetworkSniffer/src/sniffer.py
+  ```
+"# CodeAlpha_CyberSecurity-" 
