@@ -22,7 +22,8 @@ Each task demonstrates practical skills in cybersecurity, including network snif
 - **Folder:** Task2_PhishingAwareness/
 - Deliverables: Presentation (pptx), Quiz (pdf), Python quiz script
 - Description: Educates users about phishing emails, fake websites, and attacker tactics.
-- Run Quiz Script:
+- **Run:**
+  ```bash
   python Task2_PhishingAwareness/src/phishing_quiz.py
 
 ✅ Task 3: Secure Coding Review
@@ -31,7 +32,8 @@ Each task demonstrates practical skills in cybersecurity, including network snif
 - Description: Demonstrates insecure coding (SQL Injection) and secure fix using parameterized queries.
 - Run Vulnerable Code:
   python Task3_SecureCodingReview/src/vulnerable_code.py
-- Run Secure Code:
+- **Run:**
+  ```bash
   python Task3_SecureCodingReview/src/secure_code.py
 
 
